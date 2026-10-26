@@ -4,7 +4,6 @@ LABEL maintainer="s.graber@fz-juelich.de"
 ARG NEST_VERSION=main
 ARG SRC_PATH=/tmp
 
-ENV HOME=/root
 ENV TERM=xterm 
 ENV TZ=Europe/Berlin 
 ENV DEBIAN_FRONTEND=noninteractive 
